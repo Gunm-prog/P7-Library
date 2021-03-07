@@ -1,3 +1,4 @@
+/*
 package com.emilie.Library.Model;
 
 
@@ -87,3 +88,4 @@ public class Member {
         BookLoans=bookLoans;
     }
 }
+*/
